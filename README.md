@@ -1,1 +1,3 @@
 # esp32_micropython
+
+This README, as well as the rest of the repo, is in progress...
